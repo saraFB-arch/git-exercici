@@ -1,1 +1,3 @@
-Hago un cambio
+Hago un segundo cambio
+
+Hago dos cambios para que salga conflicto
